@@ -1,0 +1,23 @@
+{
+  "name": "super-cities",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "10.4.14",
+    "classnames": "^2.3.2",
+    "framer-motion": "^10.12.16",
+    "leaflet": "^1.9.4",
+    "next": "13.4.4",
+    "postcss": "8.4.24",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-leaflet": "^4.2.1",
+    "tailwindcss": "^3.3.2"
+  }
+}
